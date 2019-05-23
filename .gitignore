@@ -1,0 +1,7 @@
+db.sqlite3
+requirements（虚拟环境mysite_env库）.txt
+原有的anaconda的base库.txt
+readme.doc
+readme.txt
+settings.py
+__pycache__/

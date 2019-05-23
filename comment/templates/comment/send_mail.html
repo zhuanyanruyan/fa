@@ -1,0 +1,9 @@
+<!-- 这种方法也行
+{{ comment_text|safe }}
+<a href="http://localhost:8000{{ url }}">点击查看</a>
+-->
+<!--取消自动转义的方法-->
+{% autoescape off %}
+    {{ comment_text }}
+    <a href="http://localhost:8000{{ url }}">点击查看</a>
+{% endautoescape %}

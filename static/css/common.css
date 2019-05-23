@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/*
+div.nav {
+    background-color: #eeeeee;
+    border-bottom: 1px solid #cccccc;
+    padding: 10px 5px;
+}*/
+/*
+div.nav a{
+   设置将链接原有的下划线去掉
+    text-decoration: none;
+    color: #000;
+  上下，左右 内边距
+    padding:5px 10px;
+}
+div.nav a.logo {
+    display: inline-block;
+    font-size: 120%;
+}
+*/
+
+body{
+    margin-top:70px!important;
+}
+ul{
+    list-style-type: none!important;
+}
+ul.navbar-right {
+    margin-right: 0;
+}
