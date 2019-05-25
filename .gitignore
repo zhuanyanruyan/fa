@@ -7,3 +7,4 @@ settings.py
 __pycache__/
 requirements
 data.json
+static_collected/

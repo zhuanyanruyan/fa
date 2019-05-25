@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3fd9782-e0ca-4b37-b87f-7fedadcaacf1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fa/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/fa/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -140,7 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="57" />
     <option name="y" value="117" />
     <option name="width" value="1555" />
@@ -380,12 +377,12 @@
       <workItem from="1558429676737" duration="597000" />
       <workItem from="1558571545959" duration="4335000" />
       <workItem from="1558610795673" duration="2694000" />
-      <workItem from="1558746607478" duration="602000" />
+      <workItem from="1558746607478" duration="1200000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="188005000" />
+    <option name="totallyTimeSpent" value="188603000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="46" y="94" width="1244" height="589" extended-state="1" />
