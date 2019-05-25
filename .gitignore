@@ -5,3 +5,5 @@ readme.doc
 readme.txt
 settings.py
 __pycache__/
+requirements
+data.json
